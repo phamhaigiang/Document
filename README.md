@@ -1,6 +1,6 @@
 Going and experiencing places around the world with 3,000,000+ location and a lot of interesting things
 
-+ gPoi is application  to go and experiencing places around the world (United States, French, United Kingdom, Germany, Canada, Japan, China, Australia, Singapore, Viet Nam)
++ gPoi is application  to go and experiencing places around the world (United States, French, United Kingdom, Germany, Canada, Japan, China, Australia, Singapore, Viet Nam). It's support for andoind and ios and develop by Xamarin forms
 
 + gPoi discover 20  points of interest around according to the filter (min distance,  max distance, rating and type).
 
